@@ -4,7 +4,7 @@ int main() {
    
    int num, originalnum,remainder,result=0;
 
-cout<<"enter three numbers";
+cout<<"enter three numbers"; 
 cin>>num;
 originalnum=num;
 
